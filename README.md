@@ -23,4 +23,4 @@ Tối ưu hóa: Adam
 Hàm mất mát: nn.CrossEntropyLoss
 
 # Kết quả Đánh giá (Evaluation Results)
-Sau khi hoàn tất quá trình huấn luyện và tải lại checkpoint tốt nhất mô hình đạt độ chính xác cao **83.25%** trên tập kiểm thử CIFAR-100.
+Sau khi hoàn tất quá trình huấn luyện và tải lại checkpoint tốt nhất mô hình efficientnetB2_cifar100_FINAL.pth đạt độ chính xác cao **83.25%** trên tập kiểm thử CIFAR-100.
